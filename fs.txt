@@ -1,0 +1,16 @@
+{
+	"name": "wehfkep",
+	"stack": [],
+	"gitRepo": "joepjo",
+	"email": "j[oqerj[o"
+}{
+	"name": "Cassy",
+	"stack": [],
+	"gitRepo": "seepearson",
+	"email": "seepearson@gmail.com"
+}{
+	"name": "Cassy",
+	"position": "Manager",
+	"gitRepo": "seepearson",
+	"email": "seepearson@gmail.com"
+}
